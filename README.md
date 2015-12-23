@@ -26,7 +26,12 @@ structure most update at FileTree.md
 
 ```bash
 .
-└── startmeteor # for first learn meteor demo
+└── startmeteor 			# for first learn meteor demo
+    ├── client  			# client package
+    │   └── stylesheets		# styles
+    ├── lib					# library
+    ├── public				# static resource 
+    └── server				# server package
 ```
 
 

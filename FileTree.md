@@ -1,4 +1,9 @@
 .
 └── startmeteor
+    ├── client
+    │   └── stylesheets
+    ├── lib
+    ├── public
+    └── server
 
-1 directory
+6 directories
